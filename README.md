@@ -1,0 +1,3 @@
+Research has shown that nonverbal communication, including body language, facial expressions, and tone of voice, can account for up to 93% of the communication that takes place between individuals. Interrogators use certain physical indicators like facial movements, hand gestures, sweat etc. to determine whether the suspect is lying or holding information. 
+With BodySpeak AI, we aim at analyzing all non-verbal communication cues including eye movements, facial muscle movements etc. by using the data from the interrogation cameras using a Deep Learning based model,we will present a detailed report to aid the interrogator. With this, we aim at monitoring the illegal assault of the suspect as well, along with reducing human errored observations during interrogations. 
+
